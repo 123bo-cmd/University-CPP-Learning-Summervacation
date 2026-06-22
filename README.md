@@ -1,3 +1,13 @@
-# 大二暑假練習C++
-大學自主練習的 C++ 物件導向
-學了class裡的private and public 還有建構子如何運作
+Markdown
+# 大二暑假練習 C++
+
+本儲存庫記錄了大二暑假自主用 AI 學習 C++ 與物件導向程式設計（OOP）的實作成果。
+
+### 1. 自動販賣機 (`vending_machine.cpp`)
+* 深入理解 **class** 內部的 **private** 與 **public** 存取權限控制。
+* 掌握 **建構子** 的運作機制與物件初始化流程。
+* 學習實踐物件導向的特性：**封裝 (Encapsulation)**。
+
+### 2. 簡易學期成績計算系統 (`GradeCalculator.cpp`)
+* 進階運用 **建構子初始化列表 (Constructor Initialization List)**，寫出更高效、符合現代規範的 C++ 程式碼。
+* 優化浮點數（`double`）型態對齊與輸入串流防禦機制。
