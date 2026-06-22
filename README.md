@@ -5,9 +5,9 @@ Markdown
 
 ### 1. 自動販賣機 (`vending_machine.cpp`)
 * 深入理解 **class** 內部的 **private** 與 **public** 存取權限控制。
-* 掌握 **建構子** 的運作機制與物件初始化流程。
+* 掌握 **建構子(Constructor)** 的運作機制與物件初始化流程。
 * 學習實踐物件導向的特性：**封裝 (Encapsulation)**。
 
 ### 2. 簡易學期成績計算系統 (`GradeCalculator.cpp`)
 * 進階運用 **建構子初始化列表 (Constructor Initialization List)**，寫出更高效、符合現代規範的 C++ 程式碼。
-* 優化浮點數（`double`）型態對齊與輸入串流防禦機制。
+* 優化 **浮點數（double)**的型態對齊。
